@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-
-import Counter from './Components/counter/Counter';
 import TodoApp from './Components/todo/TodoApp'
+
+
 
 import './App.css';
 import './bootstrap.css'

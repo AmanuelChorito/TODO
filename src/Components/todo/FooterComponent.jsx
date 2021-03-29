@@ -3,7 +3,7 @@ class FooterComponent extends Component {
     render() {
         return (
             <footer className="footer">
-                <span className="text-muted"> All right reserved 2021 @TODO</span>
+                <span className="text-muted"> All right reserved 2021 @CPT4LAZY</span>
             </footer>
         )
     }

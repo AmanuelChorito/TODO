@@ -55,10 +55,7 @@ constructor(){
  class CounterButton extends Component {
 
 
-//constructor
-constructor(){
-    super();
-   
+
 }
 
      render=()=>{
